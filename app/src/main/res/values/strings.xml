@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GrailPlayerSubjectiveTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start">START</string>
+    <string name="play_A">PLAY A</string>
+    <string name="play_B">PLAY B</string>
+    <string name="rating">RATING</string>
+    <string name="next">NEXT</string>
+    <string name="finish">FINISH</string>
+    <string name="admin_only">ADMIN ONLY</string>
+    <string name="settings">Settings</string>
+    <string name="summary">Summary</string>
+    <string name="input_file">Input_file</string>
+    <string name="title_activity_summary_list">SummaryListActivity</string>
+    <string name="title_activity_display_summary">DisplaySummaryActivity</string>
+    <!--string name="title_activity_admin_settings">AdminSettingsActivity</string-->
+</resources>
